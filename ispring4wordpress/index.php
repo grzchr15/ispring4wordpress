@@ -43,7 +43,7 @@ function ispring_func($atts, $content=null, $code="") {
 		'bgcolor' => '#ffffff',
 		'allowFullScreen' => 'true',
 		'width' => '720',
-		'src' => '/blog/wp-content/uploads/somefile.swf',
+		'src' => '/blog/wp-content/uploads/flowers1.swf',
 		'autostart'=>'1',
 		'mp3' => '8',
 	), $atts));
