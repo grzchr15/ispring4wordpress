@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Powerpoint is one of the used Presenation tool.
+
+Flash is the most installed Browser Helper.
+
+To combine this to experiences and not to change the application ( Browser to Office Application ) it makes sense to converted Powerpoint presenations to Flash Presenations to show it inline at normal web pages.
+
+= Details =
+
+See [Examples].
+
+But how to create those:
+
+We use a free converter software from iSpring (http://www.ispringsolutions.com/products/ispring_free.html ) to convert. With the help of  a wordpress plugin we can easily display those presenations on our Blogs.
+
+Usage at Wordpress with installed Plugin iSpring:
+
+[ispring id=nameXX src=/path/nameXX.swf]
